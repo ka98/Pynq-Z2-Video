@@ -1,0 +1,8 @@
+hw/hw_proj/*
+hw/NA/*
+
+baremetal/vitis_workspace/*
+
+*.xsa
+*.log
+*.analytics
