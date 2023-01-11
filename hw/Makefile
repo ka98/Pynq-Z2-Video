@@ -43,6 +43,9 @@ hw:
 clean:
 	rm -rf .Xil/ NA/ vivado.* vivado*debug
 
+rmhw:
+	make clean
+	rm -rf hw_proj
 
 distclean:
 	rm -rf .Xil/ NA/ vivado.* vivado*debug
